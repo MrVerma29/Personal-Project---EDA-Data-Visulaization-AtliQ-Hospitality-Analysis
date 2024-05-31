@@ -6,9 +6,9 @@ However, they do not have an in-house data analytics team to provide them with t
 
 
 
-1. **Expected Outcomes**
+**1. Expected Outcomes**
 
-Based on the project analysis and dashboarding, here are the expected outcomes:
+* Based on the project analysis and dashboarding, here are the expected outcomes:
 
 * **Insight into Revenue Streams:**
     1. Identification of the most profitable hotels and room categories.
@@ -30,9 +30,9 @@ Based on the project analysis and dashboarding, here are the expected outcomes:
 
 
 
-2. **Targeted Variables**
+**2. Targeted Variables**
 
-Based on the goals of the project, the targeted variables for analysis are:
+* Based on the goals of the project, the targeted variables for analysis are:
 
 * **Revenue Metrics:**
     1. revenue_generated
